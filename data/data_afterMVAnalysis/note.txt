@@ -1,0 +1,3 @@
+train_clean_rmMV và test_clean_rmMV -> tập dữ liệu đã qua xử lý EDA, chưa qua tiền xử lý dữ liệu
+train_features_rmMV và test_features_rmMV -> đã qua xử lý lý EDA và tiền xử lý dữ liệu
+
